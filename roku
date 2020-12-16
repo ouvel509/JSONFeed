@@ -1,0 +1,19 @@
+<item>
+  <guid>https://example.org/cdn/video/vaaaXaaX</guid>
+  <pubDate>2020-09-07T09:42:31+00:00</pubDate>
+  <media:title>FIDELETV</media:title>
+  <media:description>FIDELE TV your own entertainment. We are here to keep you watching to your requested all movies, music video as well as entertaining programs. We bring LIVE shows for you to keep yourself fresh 24/7. We play for watching globally.
+
+</media:description>
+  <media:category>video</media:category>
+  <media:category>reality</media:category>
+  <media:thumbnail url="https://imgur.com/A3O7Yuf" />
+  <media:content
+   url="https://59d39900ebfb8.streamlock.net:443/FIDELETV/FIDELETV/playlist.m3u8"
+   duration="74.74"
+   bitrate="2500"
+   language="en-us" />
+  <media:subTitle
+    lang="en-us"
+    href="http://www.example.org/cdn/subtitles/subtitle.srt" />
+</item>
